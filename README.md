@@ -1,11 +1,6 @@
 # 👋 Hola, soy Alex — Data Scientist en camino a MLOps
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexGHerrera/AlexGHerrera/main/assets/banner-dark.svg">
-    <img src="https://raw.githubusercontent.com/AlexGHerrera/AlexGHerrera/main/assets/banner-light.svg" alt="Alex Guerra — Data Science & MLOps">
-  </picture>
-</p>
+![Alex Guerra — Data Science & MLOps](https://raw.githubusercontent.com/AlexGHerrera/AlexGHerrera/main/assets/banner-light.svg)
 
 ## 🚀 Sobre mí
 - 🎓 Bootcamp en Data Science & Machine Learning (Hack a Boss)
