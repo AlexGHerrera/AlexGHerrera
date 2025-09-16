@@ -2,8 +2,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img src="assets/banner-light.svg" alt="Alex Guerra — Data Science & MLOps">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexGHerrera/AlexGHerrera/main/assets/banner-dark.svg">
+    <img src="https://raw.githubusercontent.com/AlexGHerrera/AlexGHerrera/main/assets/banner-light.svg" alt="Alex Guerra — Data Science & MLOps">
   </picture>
 </p>
 

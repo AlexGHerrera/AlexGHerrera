@@ -2,6 +2,10 @@
 <title>Banner de Alex Guerra — Data Science & MLOps</title>
 <desc>Fondo claro con gradiente, rejilla sutil y nodos conectados.</desc>
 <defs>
+<linearGradient id="g-main" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" style="stop-color:#F8FAFC;stop-opacity:1" />
+  <stop offset="100%" style="stop-color:#E2E8F0;stop-opacity:1" />
+</linearGradient>
 <style>
   .title { font: 700 44px sans-serif; fill: #0B1020; }
   .tagline { font: 500 20px sans-serif; fill: #0B1020; opacity:0.85; }
