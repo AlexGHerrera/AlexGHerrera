@@ -1,11 +1,25 @@
 # 👋 Hola, soy Alex Guerra — Data Scientist en camino a MLOps
 
 ## 🚀 Sobre mí
+
+Soy Alex Guerra, Data Scientist en formación con una fuerte orientación hacia MLOps y el desarrollo de soluciones de datos escalables y aplicadas al negocio. Proyectos propios y colaborativos que abarcan desde el análisis exploratorio hasta el despliegue en la nube.
+
+### 🔹 Formación y proyectos
+
 - 🎓 Bootcamp en Data Science & Machine Learning (Hack a Boss)
-- ☁️ Pipelines en AWS (S3, Lambda, RDS)
-- 🤖 ML con scikit-learn y TensorFlow
-- 📊 Streamlit y SQL
-- 🔄 ETL y limpieza de datos con Pandas y NumPy
+- ☁️ Diseño e implementación de pipelines en AWS (S3, Lambda, RDS, IAM, VPC)
+- 🗄️ Modelado de bases de datos relacionales y normalización en PostgreSQL (AWS RDS)
+- 🤖 Machine Learning clásico con scikit-learn (regresión, clasificación, Random Forest, clustering, etc.)
+- 🔥 Deep Learning con TensorFlow y Keras (redes neuronales densas y convolucionales)
+- 📝 Procesamiento de Lenguaje Natural (NLP) (vectorización con TF-IDF, clasificación de texto, embeddings)
+- 📊 Análisis exploratorio de datos (EDA) con pandas, matplotlib y seaborn
+- 🌐 ETL/ELT Pipelines con Python: ingesta de APIs, limpieza y carga en BBDD
+- 📈 Desarrollo de dashboards interactivos con Streamlit y visualizaciones dinámicas
+- 🔄 Control de versiones y colaboración con Git/GitHub Projects
+
+### 🔹 Lo que me motiva
+
+Me interesa conectar la analítica avanzada con la ingeniería de datos para llevar modelos de ML a producción de forma eficiente y segura. Mi meta es convertirme en un referente en MLOps, integrando ciencia de datos, automatización y despliegue en entornos reales.
 
 ## 🛠️ Stack Tecnológico
 
