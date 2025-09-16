@@ -1,0 +1,11 @@
+<svg width="1200" height="280" xmlns="http://www.w3.org/2000/svg">
+<title>Alex Guerra — Data & MLOps</title>
+<desc>Banner minimal</desc>
+<style>
+  .h1 { font: 800 48px sans-serif; fill:#0B1020;}
+  .p { font: 500 20px sans-serif; fill:#394357;}
+</style>
+<rect width="1200" height="280" fill="#FFFFFF"/>
+<text x="60" y="140" class="h1">Alex Guerra · Data Science &amp; MLOps</text>
+<text x="60" y="180" class="p">AWS · ETL/ELT · ML · Streamlit · SQL</text>
+</svg>

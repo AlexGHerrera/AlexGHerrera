@@ -1,0 +1,13 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+<title>Banner de Alex Guerra — Data Science & MLOps</title>
+<desc>Fondo claro con gradiente, rejilla sutil y nodos conectados.</desc>
+<defs>
+<style>
+  .title { font: 700 44px sans-serif; fill: #0B1020; }
+  .tagline { font: 500 20px sans-serif; fill: #0B1020; opacity:0.85; }
+</style>
+</defs>
+<rect width="1200" height="280" fill="url(#g-main)"/>
+<text x="80" y="140" class="title">Alex Guerra · Data Science &amp; MLOps</text>
+<text x="80" y="180" class="tagline">AWS · ETL/ELT · ML · Streamlit · SQL</text>
+</svg>
