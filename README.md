@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mí
 
-Soy Alex Guerra, Data Scientist en formación con una fuerte orientación hacia MLOps y el desarrollo de soluciones de datos escalables y aplicadas al negocio. Proyectos propios y colaborativos que abarcan desde el análisis exploratorio hasta el despliegue en la nube.
+Soy Alex Guerra, Data Scientist con una fuerte orientación hacia MLOps y el desarrollo de soluciones de datos escalables y aplicadas al negocio. Proyectos propios y colaborativos que abarcan desde el análisis exploratorio hasta el despliegue en la nube.
 
 ### 🔹 Formación y proyectos
 
@@ -37,8 +37,6 @@ Me interesa conectar la analítica avanzada con la ingeniería de datos para lle
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
