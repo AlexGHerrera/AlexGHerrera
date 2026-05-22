@@ -34,7 +34,7 @@ Combino criterio de producto con base técnica en datos e IA para llevar sistema
 
 </div>
 
-**IA & Producto:** Model Context Protocol (MCP) · Agentes conversacionales · Tool use · RAG · Output schemas · Evaluación funcional de agentes  
+**IA & Producto:** Model Context Protocol (MCP) · Agentes conversacionales · Tool use · RAG · Evaluación funcional de agentes  
 **Gestión:** Product Ownership · Scrum · Backlog management · Gestión de riesgos · Documentación funcional
 
 ---
