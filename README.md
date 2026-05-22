@@ -1,95 +1,82 @@
-# 👋 Hola, soy Alex Guerra — Data Scientist en camino a MLOps
+# Alejandro Guerra — Product Owner · IA Agéntica & MCP
 
-## 🚀 Sobre mí
-
-Soy Alex Guerra, Data Scientist con una fuerte orientación hacia MLOps y el desarrollo de soluciones de datos escalables y aplicadas al negocio. Proyectos propios y colaborativos que abarcan desde el análisis exploratorio hasta el despliegue en la nube.
-
-### 🔹 Formación y proyectos
-
-- 🎓 Bootcamp en Data Science & Machine Learning (Hack a Boss)
-- ☁️ Diseño e implementación de pipelines en AWS (S3, Lambda, RDS, IAM, VPC)
-- 🗄️ Modelado de bases de datos relacionales y normalización en PostgreSQL (AWS RDS)
-- 🤖 Machine Learning clásico con scikit-learn (regresión, clasificación, Random Forest, clustering, etc.)
-- 🔥 Deep Learning con TensorFlow y Keras (redes neuronales densas y convolucionales)
-- 📝 Procesamiento de Lenguaje Natural (NLP) (vectorización con TF-IDF, clasificación de texto, embeddings)
-- 📊 Análisis exploratorio de datos (EDA) con pandas, matplotlib y seaborn
-- 🌐 ETL/ELT Pipelines con Python: ingesta de APIs, limpieza y carga en BBDD
-- 📈 Desarrollo de dashboards interactivos con Streamlit y visualizaciones dinámicas
-- 🔄 Control de versiones y colaboración con Git/GitHub Projects
-
-### 🔹 Lo que me motiva
-
-Me interesa conectar la analítica avanzada con la ingeniería de datos para llevar modelos de ML a producción de forma eficiente y segura. Mi meta es convertirme en un referente en MLOps, integrando ciencia de datos, automatización y despliegue en entornos reales.
-
-## 🛠️ Stack Tecnológico
-
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexGHerrera&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGHerrera&layout=compact&langs_count=8&theme=transparent&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGHerrera&theme=transparent&hide_border=true" alt="AlexGHerrera" />
-</div>
-
-## 📂 Proyectos Destacados
-
-### 🎮 [Proyecto RAWG - Video Games Analytics](https://github.com/AlexGHerrera/Proyecto-RAWG)
-Análisis y predicción del éxito de videojuegos utilizando datos de la API de RAWG, con infraestructura automatizada en AWS, modelado en Python y despliegue con FastAPI.
-- **Tech Stack:** Python, AWS (S3, Lambda, RDS), FastAPI, Machine Learning
-- **Características:** Pipeline automatizado, API REST, Análisis predictivo
-
-### ✈️ [Airline Passenger Satisfaction Classifier](https://github.com/AlexGHerrera/Practica-Airline-Passenger-Satisfaction---Tabular-Dataset-Classification)
-Predicción de satisfacción de clientes a partir de datos tabulares. Incluye EDA, preprocesado, modelos clásicos (Sklearn) y una red neuronal (Keras).
-- **Tech Stack:** Python, Scikit-learn, Keras, Pandas, Matplotlib
-- **Características:** Evaluación detallada de métricas, Optimización de thresholds
-
-### 🎬 [TMDB Movies EDA & Analytics](https://github.com/AlexGHerrera/EDA_TMDB)
-Análisis Exploratorio de Datos (EDA) y dashboard interactivo sobre el dataset de TMDB. Incluye limpieza, visualización y modelado predictivo.
-- **Tech Stack:** Python, Pandas, Plotly, Streamlit
-- **Características:** Dashboard interactivo, Branding profesional, Análisis de tendencias
-
-### 📧 [Multilingual Spam Filter](https://github.com/AlexGHerrera/multilingual-spam-filter)
-Clasificador de spam multilingüe con pipeline de NLP, modelos clásicos y redes neuronales.
-- **Tech Stack:** Python, NLP, Scikit-learn, TensorFlow
-- **Características:** Soporte multiidioma, Pipeline de procesamiento de texto
-
-### 🐱🐶 [Cats vs Dogs CNN Classifier](https://github.com/AlexGHerrera/cats-vs-dogs-classifier)
-Clasificador de imágenes con red neuronal convolucional entrenada desde cero. Incluye app interactiva en Streamlit.
-- **Tech Stack:** Python, TensorFlow/Keras, Streamlit, Computer Vision
-- **Características:** CNN desde cero, App web interactiva, Visualizaciones detalladas
-
-### 🎯 [Pokemon Battle AI](https://github.com/AlexGHerrera/Pokemon-battle-ai)
-Modelo de inteligencia artificial capaz de jugar batallas Pokemon de forma autónoma contra usuarios humanos.
-- **Tech Stack:** Python, Machine Learning, Game AI
-- **Características:** IA estratégica, Simulación de batallas, Análisis de datos de juego
-
-## 📫 Contacto
-
-¿Interesado en colaborar o tienes alguna pregunta? ¡No dudes en contactarme!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-guerra-herrera-a86053115/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexgherrera.data@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexGHerrera)
+**PO / PM especializado en productos de IA agéntica, integraciones MCP y agentes conversacionales multicanal.**  
+Actualmente en [TheWiseDreams](https://thewisedreams.com) liderando el Squad 6 de IA Agéntica aplicada a Travel & Hospitality.
 
 ---
-⭐️ **¡Gracias por visitar mi perfil!** Si te gustan mis proyectos, no olvides darles una estrella ⭐
+
+## Sobre mí
+
+Combino criterio de producto con base técnica en datos e IA para llevar sistemas agénticos a producción.
+
+- Definición de visión, roadmap y backlog para soluciones basadas en agentes y MCP
+- Diseño funcional de agentes multicanal (WhatsApp / Email) con comportamientos diferenciados por canal
+- Arquitecturas MCP desacopladas: cada proveedor o servicio como servidor MCP independiente e integrable
+- Orquestación multiproveedor: Amadeus (vuelos), Veturis (hoteles), Intermundial (seguros)
+- Gestión de riesgos en sistemas con LLMs: alucinaciones, latencia, privacidad, dependencia de proveedores
+- Base técnica en Data Science, MLOps y pipelines de datos con Python, AWS y FastAPI
+
+---
+
+## Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</div>
+
+**IA & Producto:** Model Context Protocol (MCP) · Agentes conversacionales · Tool use · RAG · Output schemas · Evaluación funcional de agentes  
+**Gestión:** Product Ownership · Scrum · Backlog management · Gestión de riesgos · Documentación funcional
+
+---
+
+## Proyectos
+
+### [agentic-mcp-itinerary](https://github.com/AlexGHerrera/agentic-mcp-itinerary)
+Servidor MCP agéntico: un agente LLM expuesto como MCP que orquesta MCPs downstream para componer propuestas de viaje (vuelos + hoteles + seguros). Arquitectura desacoplada, output schemas estables, separación host/MCP.
+- **Stack:** Python, MCP, LLM orchestration
+
+### [Proyecto RAWG — Video Games Analytics](https://github.com/AlexGHerrera/Proyecto-RAWG)
+Pipeline end-to-end sobre datos de la API de RAWG: ingesta automática, almacenamiento en AWS (S3 + RDS), modelado predictivo y API REST con FastAPI.
+- **Stack:** Python, AWS (S3, Lambda, RDS), FastAPI, scikit-learn
+
+### [Airline Passenger Satisfaction](https://github.com/AlexGHerrera/Practica-Airline-Passenger-Satisfaction---Tabular-Dataset-Classification)
+Predicción de satisfacción de pasajeros con dataset tabular. EDA, modelos clásicos con Sklearn y red neuronal con Keras, evaluación detallada de métricas y optimización de thresholds.
+- **Stack:** Python, scikit-learn, Keras, Pandas
+
+### [Multilingual Spam Filter](https://github.com/AlexGHerrera/multilingual-spam-filter)
+Clasificador de spam multilingüe con pipeline NLP completo: TF-IDF, modelos clásicos y red neuronal. Soporte para múltiples idiomas.
+- **Stack:** Python, NLP, scikit-learn, TensorFlow
+
+### [TMDB Movies EDA](https://github.com/AlexGHerrera/EDA_TMDB)
+Análisis exploratorio y dashboard interactivo sobre el dataset de TMDB. Limpieza, visualización, modelado predictivo.
+- **Stack:** Python, Pandas, Plotly, Streamlit
+
+### [Cats vs Dogs CNN Classifier](https://github.com/AlexGHerrera/cats-vs-dogs-classifier)
+Clasificador de imágenes con CNN entrenada desde cero e interfaz interactiva en Streamlit.
+- **Stack:** Python, TensorFlow/Keras, Streamlit
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlexGHerrera&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGHerrera&layout=compact&langs_count=6&theme=transparent&hide_border=true"/>
+</div>
+
+---
+
+## Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-guerra-herrera-a86053115/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex_gh@live.com)
