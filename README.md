@@ -67,15 +67,6 @@ Clasificador de imágenes con CNN entrenada desde cero e interfaz interactiva en
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlexGHerrera&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGHerrera&layout=compact&langs_count=6&theme=transparent&hide_border=true"/>
-</div>
-
----
-
 ## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-guerra-herrera-a86053115/)
