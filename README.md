@@ -12,7 +12,7 @@ Combino criterio de producto con base técnica en datos e IA para llevar sistema
 - Definición de visión, roadmap y backlog para soluciones basadas en agentes y MCP
 - Diseño funcional de agentes multicanal (WhatsApp / Email) con comportamientos diferenciados por canal
 - Arquitecturas MCP desacopladas: cada proveedor o servicio como servidor MCP independiente e integrable
-- Orquestación multiproveedor: Amadeus (vuelos), Veturis (hoteles), Intermundial (seguros)
+- Orquestación multiproveedor.
 - Gestión de riesgos en sistemas con LLMs: alucinaciones, latencia, privacidad, dependencia de proveedores
 - Base técnica en Data Science, MLOps y pipelines de datos con Python, AWS y FastAPI
 
