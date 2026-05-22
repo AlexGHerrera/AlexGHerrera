@@ -42,28 +42,32 @@ Combino criterio de producto con base técnica en datos e IA para llevar sistema
 ## Proyectos
 
 ### [agentic-mcp-itinerary](https://github.com/AlexGHerrera/agentic-mcp-itinerary)
-Servidor MCP agéntico: un agente LLM expuesto como MCP que orquesta MCPs downstream para componer propuestas de viaje (vuelos + hoteles + seguros). Arquitectura desacoplada, output schemas estables, separación host/MCP.
-- **Stack:** Python, MCP, LLM orchestration
+Servidor MCP agéntico: un agente LLM expuesto como MCP que orquesta MCPs downstream para componer propuestas de viaje (vuelos + hoteles + seguros). Grafo LangGraph con fan-out paralelo, estado persistente y OAuth 2.1.
+- **Stack:** Python · MCP · LangGraph · FastMCP · OAuth 2.1
+
+### [flight-search-ranking-research](https://github.com/AlexGHerrera/flight-search-ranking-research)
+Investigación controlada sobre el mecanismo de ranking de un buscador de vuelos: ingeniería inversa del scoring BEST / CHEAPEST / FASTEST y comparativa de reglas programáticas vs modelos ML (Ridge, Random Forest, GBR). Resultado: el `FlightScorer` programático supera al ML en 2 de 3 targets.
+- **Stack:** Python · scikit-learn · pandas · scipy
 
 ### [Proyecto RAWG — Video Games Analytics](https://github.com/AlexGHerrera/Proyecto-RAWG)
 Pipeline end-to-end sobre datos de la API de RAWG: ingesta automática, almacenamiento en AWS (S3 + RDS), modelado predictivo y API REST con FastAPI.
-- **Stack:** Python, AWS (S3, Lambda, RDS), FastAPI, scikit-learn
+- **Stack:** Python · AWS (S3, Lambda, RDS) · FastAPI · scikit-learn
 
-### [Airline Passenger Satisfaction](https://github.com/AlexGHerrera/Practica-Airline-Passenger-Satisfaction---Tabular-Dataset-Classification)
+### [Airline Passenger Satisfaction](https://github.com/AlexGHerrera/Airline-Passenger-Satisfaction---Tabular-Dataset-Classification)
 Predicción de satisfacción de pasajeros con dataset tabular. EDA, modelos clásicos con Sklearn y red neuronal con Keras, evaluación detallada de métricas y optimización de thresholds.
-- **Stack:** Python, scikit-learn, Keras, Pandas
+- **Stack:** Python · scikit-learn · Keras · Pandas
 
 ### [Multilingual Spam Filter](https://github.com/AlexGHerrera/multilingual-spam-filter)
 Clasificador de spam multilingüe con pipeline NLP completo: TF-IDF, modelos clásicos y red neuronal. Soporte para múltiples idiomas.
-- **Stack:** Python, NLP, scikit-learn, TensorFlow
+- **Stack:** Python · NLP · scikit-learn · TensorFlow
 
 ### [TMDB Movies EDA](https://github.com/AlexGHerrera/EDA_TMDB)
 Análisis exploratorio y dashboard interactivo sobre el dataset de TMDB. Limpieza, visualización, modelado predictivo.
-- **Stack:** Python, Pandas, Plotly, Streamlit
+- **Stack:** Python · Pandas · Plotly · Streamlit
 
 ### [Cats vs Dogs CNN Classifier](https://github.com/AlexGHerrera/cats-vs-dogs-classifier)
 Clasificador de imágenes con CNN entrenada desde cero e interfaz interactiva en Streamlit.
-- **Stack:** Python, TensorFlow/Keras, Streamlit
+- **Stack:** Python · TensorFlow/Keras · Streamlit
 
 ---
 
